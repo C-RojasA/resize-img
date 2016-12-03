@@ -1,1 +1,1 @@
-# rezize-img
+# resize-img
