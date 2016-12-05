@@ -1,2 +1,2 @@
 # resize-img
-función para bajar disminuir el peso a las imágenes que recibe un campo upload
+función para disminuir el peso a las imágenes que recibe un campo upload
